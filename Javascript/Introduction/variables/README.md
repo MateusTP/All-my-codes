@@ -30,5 +30,5 @@ On javascript we have:
 * Strings
 * * Passing texts
 
-**And a lot more**
+###### And a lot more...
 But you don't need to worry on javascript about this, because he identifies alone the types of the values.
