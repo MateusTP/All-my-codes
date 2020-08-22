@@ -14,21 +14,21 @@ On javascript we have:
 
 ### There are many type, we can define...
 * Objects
-** The objects are defined passing **{}**.
-** Inside the *{}* you put the **name of the component** : **content** *if you want to add other element, put a **","** in the end*
+* * The objects are defined passing **{}**.
+* * Inside the *{}* you put the **name of the component** : **content** *if you want to add other element, put a **","** in the end*
 
 * Arrays 
-** The array is defined passing **[]**.
-** Inside the *[]* you put values, for separate them, you put a **","**
+* * The array is defined passing **[]**.
+* * Inside the *[]* you put values, for separate them, you put a **","**
 
 * Int
-** Passing a **number**.
+* * Passing a **number**.
 
 * Boolean
-** Passing **true** or **false**.
+* * Passing **true** or **false**.
 
 * Strings
-** Passing texts
+* * Passing texts
 
 **And a lot more**
 But you don't need to worry on javascript about this, because he identifies alone the types of the values.
